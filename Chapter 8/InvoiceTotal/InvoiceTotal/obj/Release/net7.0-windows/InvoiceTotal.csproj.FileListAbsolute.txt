@@ -1,0 +1,16 @@
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\bin\Release\net7.0-windows\InvoiceTotal.exe
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\bin\Release\net7.0-windows\InvoiceTotal.deps.json
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\bin\Release\net7.0-windows\InvoiceTotal.runtimeconfig.json
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\bin\Release\net7.0-windows\InvoiceTotal.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\bin\Release\net7.0-windows\InvoiceTotal.pdb
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\obj\Release\net7.0-windows\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\obj\Release\net7.0-windows\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\obj\Release\net7.0-windows\InvoiceTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\obj\Release\net7.0-windows\InvoiceTotal.AssemblyInfoInputs.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\obj\Release\net7.0-windows\InvoiceTotal.AssemblyInfo.cs
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\obj\Release\net7.0-windows\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\obj\Release\net7.0-windows\InvoiceTotal.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\obj\Release\net7.0-windows\refint\InvoiceTotal.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\obj\Release\net7.0-windows\InvoiceTotal.pdb
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\obj\Release\net7.0-windows\InvoiceTotal.genruntimeconfig.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\InvoiceTotal\InvoiceTotal\obj\Release\net7.0-windows\ref\InvoiceTotal.dll
