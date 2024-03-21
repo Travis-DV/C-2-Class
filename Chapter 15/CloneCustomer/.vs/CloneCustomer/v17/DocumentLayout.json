@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F089E9BA-76CD-4B87-B9CF-B39F50623C5F}|CloneCustomer\\CloneCustomer.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\c#-2 class\\murachappexercisestarts\\ch15\\clonecustomer\\clonecustomer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F089E9BA-76CD-4B87-B9CF-B39F50623C5F}|CloneCustomer\\CloneCustomer.csproj|solutionrelative:clonecustomer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089E9BA-76CD-4B87-B9CF-B39F50623C5F}|CloneCustomer\\CloneCustomer.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\c#-2 class\\murachappexercisestarts\\ch15\\clonecustomer\\clonecustomer\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F089E9BA-76CD-4B87-B9CF-B39F50623C5F}|CloneCustomer\\CloneCustomer.csproj|solutionrelative:clonecustomer\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089E9BA-76CD-4B87-B9CF-B39F50623C5F}|CloneCustomer\\CloneCustomer.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\c#-2 class\\murachappexercisestarts\\ch15\\clonecustomer\\clonecustomer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F089E9BA-76CD-4B87-B9CF-B39F50623C5F}|CloneCustomer\\CloneCustomer.csproj|solutionrelative:clonecustomer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089E9BA-76CD-4B87-B9CF-B39F50623C5F}|CloneCustomer\\CloneCustomer.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\c#-2 class\\murachappexercisestarts\\ch15\\clonecustomer\\clonecustomer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F089E9BA-76CD-4B87-B9CF-B39F50623C5F}|CloneCustomer\\CloneCustomer.csproj|solutionrelative:clonecustomer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089E9BA-76CD-4B87-B9CF-B39F50623C5F}|CloneCustomer\\CloneCustomer.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\c#-2 class\\murachappexercisestarts\\ch15\\clonecustomer\\clonecustomer\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F089E9BA-76CD-4B87-B9CF-B39F50623C5F}|CloneCustomer\\CloneCustomer.csproj|solutionrelative:clonecustomer\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089E9BA-76CD-4B87-B9CF-B39F50623C5F}|CloneCustomer\\CloneCustomer.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\c#-2 class\\murachappexercisestarts\\ch15\\clonecustomer\\clonecustomer\\idisplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F089E9BA-76CD-4B87-B9CF-B39F50623C5F}|CloneCustomer\\CloneCustomer.csproj|solutionrelative:clonecustomer\\idisplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089E9BA-76CD-4B87-B9CF-B39F50623C5F}|CloneCustomer\\CloneCustomer.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\c#-2 class\\murachappexercisestarts\\ch15\\clonecustomer\\clonecustomer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F089E9BA-76CD-4B87-B9CF-B39F50623C5F}|CloneCustomer\\CloneCustomer.csproj|solutionrelative:clonecustomer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\CloneCustomer\\CustomList.cs",
+              "RelativeDocumentMoniker": "CloneCustomer\\CustomList.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\CloneCustomer\\CustomList.cs",
+              "RelativeToolTip": "CloneCustomer\\CustomList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:46:54.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\CloneCustomer\\Validator.cs",
+              "RelativeDocumentMoniker": "CloneCustomer\\Validator.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\CloneCustomer\\Validator.cs",
+              "RelativeToolTip": "CloneCustomer\\Validator.cs",
+              "ViewState": "AQIAAAoAAABAZ2ZmZmYRwB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:20:38.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDisplayable.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\CloneCustomer\\IDisplayable.cs",
+              "RelativeDocumentMoniker": "CloneCustomer\\IDisplayable.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\CloneCustomer\\IDisplayable.cs",
+              "RelativeToolTip": "CloneCustomer\\IDisplayable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:03:47.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\CloneCustomer\\Form1.cs",
+              "RelativeDocumentMoniker": "CloneCustomer\\Form1.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\CloneCustomer\\Form1.cs",
+              "RelativeToolTip": "CloneCustomer\\Form1.cs",
+              "ViewState": "AQIAAF8AAACAmZmZmZkWwFgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:01:10.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\CloneCustomer\\Form1.cs",
+              "RelativeDocumentMoniker": "CloneCustomer\\Form1.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\CloneCustomer\\Form1.cs [Design]",
+              "RelativeToolTip": "CloneCustomer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:01:07.313Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\CloneCustomer\\Program.cs",
+              "RelativeDocumentMoniker": "CloneCustomer\\Program.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\CloneCustomer\\Program.cs",
+              "RelativeToolTip": "CloneCustomer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:01:05.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\CloneCustomer\\Customer.cs",
+              "RelativeDocumentMoniker": "CloneCustomer\\Customer.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\C#-2 Class\\MurachAppExerciseStarts\\ch15\\CloneCustomer\\CloneCustomer\\Customer.cs",
+              "RelativeToolTip": "CloneCustomer\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:01:03.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
