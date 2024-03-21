@@ -1,0 +1,38 @@
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\bin\Debug\net7.0-windows\StudentScores.exe
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\bin\Debug\net7.0-windows\StudentScores.deps.json
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\bin\Debug\net7.0-windows\StudentScores.runtimeconfig.json
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\bin\Debug\net7.0-windows\StudentScores.dll
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\bin\Debug\net7.0-windows\StudentScores.pdb
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\obj\Debug\net7.0-windows\StudentScores.frmAddNewStudent.resources
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\obj\Debug\net7.0-windows\StudentScores.frmAddUpdateScore.resources
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\obj\Debug\net7.0-windows\StudentScores.frmStudentScores.resources
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\obj\Debug\net7.0-windows\StudentScores.frmUpdateStudent.resources
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\obj\Debug\net7.0-windows\StudentScores.csproj.GenerateResource.cache
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\obj\Debug\net7.0-windows\StudentScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\obj\Debug\net7.0-windows\StudentScores.AssemblyInfoInputs.cache
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\obj\Debug\net7.0-windows\StudentScores.AssemblyInfo.cs
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\obj\Debug\net7.0-windows\StudentScores.csproj.CoreCompileInputs.cache
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\obj\Debug\net7.0-windows\StudentScores.dll
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\obj\Debug\net7.0-windows\refint\StudentScores.dll
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\obj\Debug\net7.0-windows\StudentScores.pdb
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\obj\Debug\net7.0-windows\StudentScores.genruntimeconfig.cache
+C:\Users\I$253CPP\source\repos\Project 2-2 (StudentScores)\StudentScores\obj\Debug\net7.0-windows\ref\StudentScores.dll
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\bin\Debug\net7.0-windows\StudentScores.exe
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\bin\Debug\net7.0-windows\StudentScores.deps.json
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\bin\Debug\net7.0-windows\StudentScores.runtimeconfig.json
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\bin\Debug\net7.0-windows\StudentScores.dll
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\bin\Debug\net7.0-windows\StudentScores.pdb
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\obj\Debug\net7.0-windows\StudentScores.frmAddNewStudent.resources
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\obj\Debug\net7.0-windows\StudentScores.frmAddUpdateScore.resources
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\obj\Debug\net7.0-windows\StudentScores.frmStudentScores.resources
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\obj\Debug\net7.0-windows\StudentScores.frmUpdateStudent.resources
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\obj\Debug\net7.0-windows\StudentScores.csproj.GenerateResource.cache
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\obj\Debug\net7.0-windows\StudentScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\obj\Debug\net7.0-windows\StudentScores.AssemblyInfoInputs.cache
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\obj\Debug\net7.0-windows\StudentScores.AssemblyInfo.cs
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\obj\Debug\net7.0-windows\StudentScores.csproj.CoreCompileInputs.cache
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\obj\Debug\net7.0-windows\StudentScores.dll
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\obj\Debug\net7.0-windows\refint\StudentScores.dll
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\obj\Debug\net7.0-windows\StudentScores.pdb
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\obj\Debug\net7.0-windows\StudentScores.genruntimeconfig.cache
+C:\Users\I$253CPP\source\repos\UnitAssignments\Unit2Assignment\StudentScores\obj\Debug\net7.0-windows\ref\StudentScores.dll

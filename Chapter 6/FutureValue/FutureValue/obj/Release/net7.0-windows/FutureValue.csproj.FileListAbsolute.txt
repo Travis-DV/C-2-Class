@@ -1,0 +1,16 @@
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\bin\Release\net7.0-windows\FutureValue.exe
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\bin\Release\net7.0-windows\FutureValue.deps.json
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\bin\Release\net7.0-windows\FutureValue.runtimeconfig.json
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\bin\Release\net7.0-windows\FutureValue.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\bin\Release\net7.0-windows\FutureValue.pdb
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\obj\Release\net7.0-windows\FutureValue.frmFutureValue.resources
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\obj\Release\net7.0-windows\FutureValue.csproj.GenerateResource.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\obj\Release\net7.0-windows\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\obj\Release\net7.0-windows\FutureValue.AssemblyInfoInputs.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\obj\Release\net7.0-windows\FutureValue.AssemblyInfo.cs
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\obj\Release\net7.0-windows\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\obj\Release\net7.0-windows\FutureValue.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\obj\Release\net7.0-windows\refint\FutureValue.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\obj\Release\net7.0-windows\FutureValue.pdb
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\obj\Release\net7.0-windows\FutureValue.genruntimeconfig.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\MurachAppExerciseStarts\ch06\FutureValue\FutureValue\obj\Release\net7.0-windows\ref\FutureValue.dll
