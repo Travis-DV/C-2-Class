@@ -1,0 +1,83 @@
+Table Name: Customer
+Column Name		Data Type
+-----------------------------------------------
+CustomerID		Integer		Primary Key
+FirstName		String
+LastName		String
+BusinessName	String
+AddressID		Integer		Foreign Key
+Phone			String
+Email			String
+Website			String
+
+
+Table Name: Address
+Column Name		Data Type
+-----------------------------------------------
+AddressID		Integer		Primary Key
+Address1		String
+Address2		String
+City			String
+State			String
+ZipCode			String
+
+Table Name: Invoice
+Column Name		Data Type
+-----------------------------------------------
+InvoiceID		Integer		Primary Key
+InvoiceAmount	Currency
+InvoiceDate		DateTime
+CustomerID		Integer		Foreign Key
+
+
+Question 1:
+Write a query selecting all records from the address table located in the 
+state of Missouri.
+
+SELECT Address1 
+FROM Address 
+WHERE State = "Missouri";
+
+
+Question 2:
+Write a query totaling all of the invoices in the invoice table that
+were dated 2022.
+
+SELECT Sum(InvoiceAmount) AS Total 
+FROM Invoice 
+WHERE YEAR(InvoiceDate) = 2022;
+
+
+Question 3:
+Write a query listing all of the Customers table data ordered by phone
+number in descending order
+
+SELECT *
+FROM Customer
+ORDER BY Phone DESC;
+
+
+Question 4:
+Write a query totalling all of the invoices in the Invoice table where
+the customer's zipcode is 63101 (this will require one JOIN to the 
+Customer table; see Figure 19-8 in the text for examples of INNER JOIN
+and another JOIN from Customer Address)
+
+SELECT Sum(InvoiceAmount) AS Total
+FROM Invoice
+INNER JOIN Customer ON Invoice.CustomerID = Customer.CustomerID
+INNER JOIN Address ON Customer.AddressID = Address.AddressID
+WHERE Address.ZipCode = '63101';
+
+
+Question 5:
+Write a query counting the number of invoices in the Invoice table
+where the address has a state of Illinois.
+(This will require TWO JOIN statements.  See my Overview of this module
+in Canvas for an example of two joins)
+
+SELECT Count(*) AS Total
+FROM Invoice
+INNER JOIN Customer ON Invoice.CustomerID = Customer.CustomerID
+INNER JOIN Address ON Customer.AddressID = Address.AddressID
+WHERE Address.State = 'Illinois';
