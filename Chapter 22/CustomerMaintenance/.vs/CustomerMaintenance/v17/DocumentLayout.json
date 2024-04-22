@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I$253CPP\\source\\repos\\MurachAppExerciseStarts\\ch22\\CustomerMaintenance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B957E-7886-4ACB-AF12-FE5937E869CD}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\i$253cpp\\source\\repos\\murachappexercisestarts\\ch22\\customermaintenance\\customermaintenance\\frmcustomermaintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01B957E-7886-4ACB-AF12-FE5937E869CD}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmcustomermaintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B957E-7886-4ACB-AF12-FE5937E869CD}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\i$253cpp\\source\\repos\\murachappexercisestarts\\ch22\\customermaintenance\\customermaintenance\\frmcustomermaintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01B957E-7886-4ACB-AF12-FE5937E869CD}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmcustomermaintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B957E-7886-4ACB-AF12-FE5937E869CD}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\i$253cpp\\source\\repos\\murachappexercisestarts\\ch22\\customermaintenance\\customermaintenance\\models\\datalayer\\dataaccessclasses\\mmabooksdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01B957E-7886-4ACB-AF12-FE5937E869CD}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\models\\datalayer\\dataaccessclasses\\mmabooksdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B957E-7886-4ACB-AF12-FE5937E869CD}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\i$253cpp\\source\\repos\\murachappexercisestarts\\ch22\\customermaintenance\\customermaintenance\\frmaddmodifycustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01B957E-7886-4ACB-AF12-FE5937E869CD}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmaddmodifycustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MMABooksDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\I$253CPP\\source\\repos\\MurachAppExerciseStarts\\ch22\\CustomerMaintenance\\CustomerMaintenance\\Models\\DataLayer\\DataAccessClasses\\MMABooksDataAccess.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\Models\\DataLayer\\DataAccessClasses\\MMABooksDataAccess.cs",
+              "ToolTip": "C:\\Users\\I$253CPP\\source\\repos\\MurachAppExerciseStarts\\ch22\\CustomerMaintenance\\CustomerMaintenance\\Models\\DataLayer\\DataAccessClasses\\MMABooksDataAccess.cs",
+              "RelativeToolTip": "CustomerMaintenance\\Models\\DataLayer\\DataAccessClasses\\MMABooksDataAccess.cs",
+              "ViewState": "AQIAAAIAAAAANDMzMzP5vxIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T05:27:11.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCustomerMaintenance.cs",
+              "DocumentMoniker": "C:\\Users\\I$253CPP\\source\\repos\\MurachAppExerciseStarts\\ch22\\CustomerMaintenance\\CustomerMaintenance\\frmCustomerMaintenance.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\frmCustomerMaintenance.cs",
+              "ToolTip": "C:\\Users\\I$253CPP\\source\\repos\\MurachAppExerciseStarts\\ch22\\CustomerMaintenance\\CustomerMaintenance\\frmCustomerMaintenance.cs",
+              "RelativeToolTip": "CustomerMaintenance\\frmCustomerMaintenance.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAQwOsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T05:23:53.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCustomerMaintenance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\I$253CPP\\source\\repos\\MurachAppExerciseStarts\\ch22\\CustomerMaintenance\\CustomerMaintenance\\frmCustomerMaintenance.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\frmCustomerMaintenance.cs",
+              "ToolTip": "C:\\Users\\I$253CPP\\source\\repos\\MurachAppExerciseStarts\\ch22\\CustomerMaintenance\\CustomerMaintenance\\frmCustomerMaintenance.cs [Design]",
+              "RelativeToolTip": "CustomerMaintenance\\frmCustomerMaintenance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T05:20:25.206Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddModifyCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\I$253CPP\\source\\repos\\MurachAppExerciseStarts\\ch22\\CustomerMaintenance\\CustomerMaintenance\\frmAddModifyCustomer.cs",
+              "RelativeDocumentMoniker": "CustomerMaintenance\\frmAddModifyCustomer.cs",
+              "ToolTip": "C:\\Users\\I$253CPP\\source\\repos\\MurachAppExerciseStarts\\ch22\\CustomerMaintenance\\CustomerMaintenance\\frmAddModifyCustomer.cs [Design]",
+              "RelativeToolTip": "CustomerMaintenance\\frmAddModifyCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T05:20:24.617Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
